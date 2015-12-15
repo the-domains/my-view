@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Simple story from someone trying to spread a practical school of philosophy. '
-datePublished: '2015-12-15T08:03:57.065Z'
-dateModified: '2015-12-15T08:01:15.282Z'
-title: Discovering Stoic Philosophy
+datePublished: '2015-12-15T08:24:29.217Z'
+dateModified: '2015-12-15T08:22:45.351Z'
+title: "Discovering Stoic Philosophy\_"
 author: []
 authors: []
 publisher:
@@ -22,13 +22,17 @@ url: discovering-stoic-philosophy/index.html
 _type: Article
 
 ---
-# Discovering Stoic Philosophy
+# 
+
+# 
+
+# Discovering Stoic Philosophy 
 
 My introduction to stoicism was unlike most I've heard of. I never studied philosophy in school, spent time with philosophers, nor cared for it in the first place. I heard names of writers and their books; of philosophers and their thoughts, but always viewed them as too difficult to understand, or not worth understanding. I was a fool.
 
 In time, I learned about The Meditations of Marcus Aurelius; the tome of stoic philosophy. A published compilation of the thoughts, feelings, and insights of a Roman Emperor in his own words, written originally, for none other than himself.  My introduction was sudden, exciting, and has shaped my mind in new, wonderful ways. I can never explain how thankful I am for this introduction.
 
-Like I said, I didn't learn about stoicism from the essential book on the subject, written the last philosopher king. Instead, I learned about it from what I call a modern version/homage. I'm talking about a little book entitled "The Obstacle is the Way" by  Ryan Holiday, who I've become a dear fan of since reading. 
+Like I said, I didn't learn about stoicism from the essential book on the subject, written by the last philosopher king. Instead, I learned about it from what I call a modern version/homage. I'm talking about a little book entitled "The Obstacle is the Way" by  Ryan Holiday, who I've become a dear fan of since reading. 
 
 It has introduced me to a world I wish I had discovered sooner. Now, despite learning about it later in my life, I will make up for lost time by devoting myself to understanding as much as I can, as an aspiring stoic (if there can be such a thing). When I knew I would devote myself to learning, the first thing I realized is that I must act on what I learn. No matter what may be suggested, all the insights in the world are useless if they are not followed with the right actions. 
 
