@@ -1,0 +1,28 @@
+name: My View
+favicon: null
+layout_spectrum: 0.5457189765293151
+typography_spectrum: 0.9049580502323806
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.35837923642247915
+  lightness: 0.7093324065208435
+  saturation: 0.5055285750422627
+  rhythmicContrast: 0.6320067062042654
+purpose: []
