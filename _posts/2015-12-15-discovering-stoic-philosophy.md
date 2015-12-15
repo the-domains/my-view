@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Simple story from someone trying to spread a practical school of philosophy. '
-datePublished: '2015-12-15T07:51:37.359Z'
-dateModified: '2015-12-15T07:40:08.045Z'
+datePublished: '2015-12-15T08:03:57.065Z'
+dateModified: '2015-12-15T08:01:15.282Z'
 title: Discovering Stoic Philosophy
 author: []
 authors: []
@@ -37,3 +37,7 @@ This is one of the many reasons I've grown to love stoicism. It's practical. My 
 obstacles are many; so, instead of listing how my current mindset will bring me burdens, I will end this post with a quote from the philosopher king himself. I first read this in "The Obstacle is the Way," and it has stuck with me since my wonderful introduction to stoic philosophy. 
 
 "Our actions may be impeded, but there can be no impeding our intentions or our dispositions. Because we can accommodate and adapt. The mind adapts and converts to its own purposes the obstacle to our acting. The impediment to action advances action. What stands in the way becomes the way." - Marcus Aurelius
+
+With kind regards,
+
+DB
