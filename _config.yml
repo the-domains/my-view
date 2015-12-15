@@ -1,6 +1,6 @@
 name: My View
 favicon: null
-layout_spectrum: 0.19964
+layout_spectrum: 0.94038
 typography_spectrum: 0.99368
 title: Life of an Aspiring Stoic
 cta:
@@ -24,6 +24,6 @@ color:
     - '#a6cdea'
   brandStrength: 0.5
   lightness: 0.5625
-  saturation: 0.0625
-  rhythmicContrast: 0
+  saturation: 0.375
+  rhythmicContrast: 1
 purpose: []
