@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Life of an Aspiring Stoic]]></title>
         <description><![CDATA[Life of an Aspiring Stoic]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/my-view/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 07:51:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Dec 2015 08:03:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/my-view/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Discovering Stoic Philosophy]]></title>
             <description><![CDATA[<article><h1>Discovering Stoic Philosophy</h1><p>My introduction to stoicism was unlike most I've heard of. I never studied philosophy in school, spent time with philosophers, nor cared for it in the first place. I heard names of writers and their books; of philosophers and their thoughts, but always viewed them as too difficult to understand, or not worth understanding. I was a fool.</p></article>]]></description>
-            <link>undefineddiscovering-stoic-philosophy/index.html</link>
+            <link>https://thegrid.ai/my-view/discovering-stoic-philosophy/index.html</link>
             <guid isPermaLink="false">7fd78f68-a989-47bc-b30b-f7eb592e2a79</guid>
-            <pubDate>Tue, 15 Dec 2015 07:51:37 GMT</pubDate>
+            <pubDate>Tue, 15 Dec 2015 08:03:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
