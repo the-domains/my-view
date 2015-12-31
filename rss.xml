@@ -2,16 +2,49 @@
     <channel>
         <title><![CDATA[Life of an Aspiring Stoic]]></title>
         <description><![CDATA[Life of an Aspiring Stoic]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/my-view/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 05:55:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Dec 2015 06:06:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/my-view/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Discovering Stoic Philosophy]]></title>
             <description><![CDATA[<article><h1>Discovering Stoic Philosophy</h1><p>My introduction to stoicism was unlike most I've heard of. I never studied philosophy in school, spent time with philosophers, nor cared for it in the first place. I heard names of writers and their books; of philosophers and their thoughts, but always viewed them as too difficult to understand, or not worth understanding. I was a fool.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7cdd3c2f-b1e7-42bd-a196-b22e4824afbc.png"></article>]]></description>
-            <link>undefineddiscovering-stoic-philosophy/index.html</link>
+            <link>https://thegrid.ai/my-view/discovering-stoic-philosophy/index.html</link>
             <guid isPermaLink="false">5ba8549d-b1c8-4eb4-94d0-86980741a359</guid>
-            <pubDate>Thu, 31 Dec 2015 05:55:35 GMT</pubDate>
+            <pubDate>Thu, 31 Dec 2015 06:06:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[But what does this really mean? It
+means finding the silver lining no matter what happens. Understand: hiding from
+the burdens you bear will not make them go away, seeing them in a way that
+helps you, instead of hinders you, is the solution. This is how Demosthenes, a
+frail boy, with a stutter, quiet as a mouse, can become one of the greatest
+orators in history. It is how a man is kicked out of his own company can change
+the world and start a movement of "start-ups" and would-be
+entrepreneurs. This is how a man, bullied as a child for being different can
+use his differences to become a dominant force in developing new technologies,
+leading humanity into space, and reminding us that relying on computers will
+one day bring its own burdens. It is how a young woman with no prospects, no
+money, little if any connections, can go from stealing out of necessity, to
+creating a massive clothing company worth hundreds of millions of dollars.
+#GIRLBOSS.]]></title>
+            <description><![CDATA[<article><h1>But what does this really mean? It
+means finding the silver lining no matter what happens. Understand: hiding from
+the burdens you bear will not make them go away, seeing them in a way that
+helps you, instead of hinders you, is the solution. This is how Demosthenes, a
+frail boy, with a stutter, quiet as a mouse, can become one of the greatest
+orators in history. It is how a man is kicked out of his own company can change
+the world and start a movement of "start-ups" and would-be
+entrepreneurs. This is how a man, bullied as a child for being different can
+use his differences to become a dominant force in developing new technologies,
+leading humanity into space, and reminding us that relying on computers will
+one day bring its own burdens. It is how a young woman with no prospects, no
+money, little if any connections, can go from stealing out of necessity, to
+creating a massive clothing company worth hundreds of millions of dollars.
+#GIRLBOSS.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/58922fdc-e036-44f4-b6d5-bc1a7371ea5c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/my-view/but-what-does-this-really-mean-it-means-finding-the-silver/index.html</link>
+            <guid isPermaLink="false">7be41112-de03-4949-af39-31913a9d56e4</guid>
+            <pubDate>Thu, 31 Dec 2015 06:01:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
