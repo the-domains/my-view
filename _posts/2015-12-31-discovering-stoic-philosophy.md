@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-31T05:55:35.546Z'
-dateModified: '2015-12-31T05:55:21.204Z'
+datePublished: '2015-12-31T06:06:42.711Z'
+dateModified: '2015-12-31T06:06:06.985Z'
 title: Discovering Stoic Philosophy
 author: []
 authors: []
