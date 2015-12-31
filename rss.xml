@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Life of an Aspiring Stoic]]></title>
+        <description><![CDATA[Life of an Aspiring Stoic]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 31 Dec 2015 05:55:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Discovering Stoic Philosophy]]></title>
+            <description><![CDATA[<article><h1>Discovering Stoic Philosophy</h1><p>My introduction to stoicism was unlike most I've heard of. I never studied philosophy in school, spent time with philosophers, nor cared for it in the first place. I heard names of writers and their books; of philosophers and their thoughts, but always viewed them as too difficult to understand, or not worth understanding. I was a fool.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7cdd3c2f-b1e7-42bd-a196-b22e4824afbc.png"></article>]]></description>
+            <link>undefineddiscovering-stoic-philosophy/index.html</link>
+            <guid isPermaLink="false">5ba8549d-b1c8-4eb4-94d0-86980741a359</guid>
+            <pubDate>Thu, 31 Dec 2015 05:55:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
